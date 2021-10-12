@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "carnet":"FC211322",
+        "Nombre":"Edwin Geovany",
+        "Apellido":"Figueroa Carbajal",
+        "Tel":"7289-6578",
+        "Correo":"Edwinsalinas356@gmail.com"
+    },
+    {
+        "id":"2",
+        "carnet":"MI201093",
+        "Nombre":"Henry Daniel",
+        "Apellido":"Mixco Iraheta",
+        "Tel":"7323-6578",
+        "Correo":"henry_daniel.9@hotmail.com"
+    },
+    {
+        "id":"3",
+        "carnet":"UM201481",
+        "Nombre":"Jonnathan Alexander",
+        "Apellido":"Urquilla Muñoz",
+        "Tel":"7289-6578",
+        "Correo":"jonnathanWeltx@gmail.com"
+    },
+    {
+        "id":"4",
+        "carnet":"SH170071",
+        "Nombre":"Diego Antonio",
+        "Apellido":"Sanabria Hernández",
+        "Tel":"7128-7543",
+        "Corre":"dash9817@gmail.com"
+    },
+    {
+        "id":"5",
+        "carnet":"CM211350",
+        "Nombre":"Christopher Alejandro",
+        "Apellido":"Contreras Moreno",
+        "Tel":"7345-7865",
+        "Correo":"alejandrochris24@gmail.com"
+    }
+]

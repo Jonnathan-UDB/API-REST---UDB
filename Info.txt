@@ -1,0 +1,20 @@
+Bienvenido al ejemplo de una API REST
+
+Nota
+Programas -------
+Bueno para poder hacer uso de esta API REST es necesario tener instalado 
+Visual Code : https://code.visualstudio.com/download
+Postman :https://www.postman.com/downloads/?utm_source=postman-home
+NavegadorWeb! 
+
+Por que razón necesitamos estos programas?
+
+Con visual code podemos abrir un terminal y ejecutar nuestros puertos, para visualizar nuestra api desde http
+con Postman lograremos hacer peticiones del  tipo:
+
+GET - Este nos permitira visualizar nuestro Json
+POST - Este nos permitira Crear un nuevo objeto en Json
+PUT - permitira que modifiquemos los datos de nuestro Json
+DELETED - el cual elminara objetos! 
+
+navegador web, para visualizar cambios del json desde otra perspectiva! 
